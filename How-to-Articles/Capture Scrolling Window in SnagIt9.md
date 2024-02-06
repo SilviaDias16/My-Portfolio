@@ -20,3 +20,7 @@ Based on the options selected in the Basic capture profiles pane, the options in
 >
 4. In the **Profile Settings** pane, click the **Input** drop-down arrow. An *Input option menu* displays as shown below:
 
+ ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputMenuOption.png)
+ 
+5. Point to **Scrolling** and verify if the **Auto Scroll Window** option is selected. By default, the *Auto Scroll* Window option is selected.
+6. To scroll the document both vertically and horizontally, on the **Input** menu options, click **Properties**. The *Input Properties* dialog box displays as shown below:
