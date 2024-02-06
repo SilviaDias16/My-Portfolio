@@ -7,6 +7,5 @@ This restriction is overcome by SnagIt’s Scrolling Window feature, using which
 
 ### To capture a scrolling window:
 1. Open the document or the web page that you want to capture.  
-> [!NOTE] You need to first open the document because when you click the Capture button and if multiple documents are open then you can directly move to the required document or web page using ALT+TAB.
-2. For Windows machine, click the Start button, and then point to All Programs. Point to SnagIt9, and then click SnagIt9. The SnagIt9 window displays as shown in Figure 1.
+2. For Windows machine, click the **Start** button, and then point to **All Programs**. Point to *SnagIt9*, and then click **SnagIt9**. The **SnagIt9** window displays as shown in *Figure 1*.
 
