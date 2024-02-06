@@ -1,6 +1,13 @@
 # Style Guide
 The rules set out in this Style Guide are designed to bring consistency to an organisation's technical documentation. These rules will help documents to have a common voice and will reduce the number of grammatical and typographical errors, as proper grammar and punctuation will help to maintain credibility.  
 The end of this guide contains a short pre-publication checklist that you should refer for a quick check before sending a document out for review or to customers.
+## Technical Writing Style and Tone of Voice
+These guidelines will help you create high qulaity documents in terms of style and tone of voice.
+
+
+
+
+
 ## Acronyms and Initialisations
 Only use acronyms and initialisations if the term is used twice or more within the document or if the abbreviation is more common that the full name, like USA. Spell out the term, in full, the first time it is used and follow it with its abbreviation in brackets. From then on use the abbreviation.  
 If the first appearance is in a title or heading, spell the term in full. Add the abbreviation when it first appears within the body of the document.  
