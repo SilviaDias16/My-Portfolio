@@ -9,14 +9,11 @@ This restriction is overcome by SnagIt’s Scrolling Window feature, using which
 1. Open the document or web page that you want to capture.  
 2. For Windows machine, click the **Start** button, and then point to **All Programs**. Point to *SnagIt9*, and then click **SnagIt9**. The **SnagIt9** window displays as shown below:
 
- ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItWindow.png)
-
  <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItWindow.png" width="800">
 
 3. From the **Basic capture profiles** pane, click **Scrolling window (Web Page)**. The *Scrolling window* options display in the *Profile Settings* pane which is located at the bottom of the window as shown below:
 
-![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/ScrollingWindowOption.png)
-
+<img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/ScrollingWindowOption.png" width="800">
 >[!Note] 
 Based on the options selected in the Basic capture profiles pane, the options in the Profile Setting pane will change.
 >
@@ -46,12 +43,12 @@ Based on the options selected in the Basic capture profiles pane, the options in
 >[!NOTE]
 Do not click to move to the document that you want to capture but instead use **ALT+TAB**. A red border rectangle appears around the document as shown below:
 
-![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/RedBorder.png)
+<img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/RedBorder.png" width="900">
 
 13. Click in the document that you want to capture. SnagIt automatically starts capturing the document in both the directions, first vertically and then horizontally.
 14. After the capture is complete, the image is displayed in the SnagIt Editor as shown below
 
-![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItCaptureComplete.png)
+<img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItCaptureComplete.png" width="900">
 
 15. Click the **Save** icon. The **Save As** dialog box displays.
 16. Enter the name of the file and click **Save**. The captured window is saved successfully.
