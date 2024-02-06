@@ -10,3 +10,8 @@ This restriction is overcome by SnagIt’s Scrolling Window feature, using which
 2. For Windows machine, click the **Start** button, and then point to **All Programs**. Point to *SnagIt9*, and then click **SnagIt9**. The **SnagIt9** window displays as shown below:
 
  ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItWindow.png)
+
+3. From the **Basic capture profiles** pane, click **Scrolling window (Web Page)**. The *Scrolling window* options display in the *Profile Settings* pane which is located at the bottom of the window as shown below:
+
+![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/ScrollingWindowOption.png)
+Note: Based on the options selected in the Basic capture profiles pane, the options in the Profile Setting pane, changes accordingly.
