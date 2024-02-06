@@ -7,5 +7,6 @@ This restriction is overcome by SnagIt’s Scrolling Window feature, using which
 
 ### To capture a scrolling window:
 1. Open the document or the web page that you want to capture.  
-2. For Windows machine, click the **Start** button, and then point to **All Programs**. Point to *SnagIt9*, and then click **SnagIt9**. The **SnagIt9** window displays as shown in *Figure 1*.
-<img src="Images/SnagItWindows.png">
+2. For Windows machine, click the **Start** button, and then point to **All Programs**. Point to *SnagIt9*, and then click **SnagIt9**. The **SnagIt9** window displays as shown below:
+
+ ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItWindow.png)
