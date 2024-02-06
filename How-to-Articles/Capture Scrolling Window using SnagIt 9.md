@@ -8,32 +8,44 @@ This restriction is overcome by SnagIt’s Scrolling Window feature, using which
 ### To capture a scrolling window:
 1. Open the document or web page that you want to capture.  
 2. For Windows machine, click the **Start** button, and then point to **All Programs**. Point to *SnagIt9*, and then click **SnagIt9**. The **SnagIt9** window displays as shown below:
-
+<p align="center">
  <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItWindow.png" width="800">
+</p>
 
 3. From the **Basic capture profiles** pane, click **Scrolling window (Web Page)**. The *Scrolling window* options display in the *Profile Settings* pane which is located at the bottom of the window as shown below:
 
+<p align="center">
 <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/ScrollingWindowOption.png" width="800">
->[!Note] 
+</p>
+
+ >[!Note] 
 Based on the options selected in the Basic capture profiles pane, the options in the Profile Setting pane will change.
 >
 4. In the **Profile Settings** pane, click the **Input** drop-down arrow. An *Input option menu* displays as shown below:
 
- ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputMenuOption.png)
+<p align="center">
+ <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputMenuOption.png" width="125">
+</p>
 
- 5. Point to **Scrolling** and verify if the **Auto Scroll Window** option is selected. By default, the *Auto Scroll* Window option is selected.
+5. Point to **Scrolling** and verify if the **Auto Scroll Window** option is selected. By default, the *Auto Scroll* Window option is selected.
 6. To scroll the document both vertically and horizontally, on the **Input** menu options, click **Properties**. The *Input Properties* dialog box displays as shown below:
 
-![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputProperties.png)
+<p align="center">
+<img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputProperties.png" width="400">
+</p>
 
 7. Under **Window Auto Scroll** options, select the **Scroll direction** as **Both**. When you select Both, the **Scroll from top of document** and **Scroll from left of document** check boxes are disabled as shown.
 
- ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputProperties_ScrollDirection.png)
+<p align="center">
+ <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputProperties_ScrollDirection.png" width="400">
+</p>
 
 8. Click **Apply** and then click **OK**.
 9. In the **Profile Settings** pane, click the **Output** drop-down arrow. An *Output menu options* displays as shown.
 
-![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/OutputMenuOption.png)
+<p align="center">
+ <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/OutputMenuOption.png" width="125">
+</p>
 
 10. Select the appropriate output option. By default, **Preview in Editor** option is selected.
 11. Click the **Capture** button located at the bottom-right of the window.
@@ -43,12 +55,16 @@ Based on the options selected in the Basic capture profiles pane, the options in
 >[!NOTE]
 Do not click to move to the document that you want to capture but instead use **ALT+TAB**. A red border rectangle appears around the document as shown below:
 
+<p align="center">
 <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/RedBorder.png" width="900">
+</p>
 
 13. Click in the document that you want to capture. SnagIt automatically starts capturing the document in both the directions, first vertically and then horizontally.
 14. After the capture is complete, the image is displayed in the SnagIt Editor as shown below
 
+<p align="center">
 <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItCaptureComplete.png" width="900">
+</p>
 
 15. Click the **Save** icon. The **Save As** dialog box displays.
 16. Enter the name of the file and click **Save**. The captured window is saved successfully.
