@@ -148,3 +148,39 @@ Avoid underlining. An exception would be quoted material which includes underlin
 
 ## Pre-Publication Checkist
 
+### Headings
+* Check that headings are title case
+* Make sure that all sections have at least one sub heading, otherwise ToC looks odd.
+* Headings should be followed by appropriate content
+* Check the ToC and make sure that no section title is too long
+* No heading should follow a heading without text in-between the two
+* Check that heading levels are correct
+* Check pagination, insert/delete page breaks. No widows/orphans.
+* Tables should: have Repeat Heading Row set and rows should not split across pages
+* Bullets and numbering (colon, full stops, caps if required, number if required)
+* Check that procedure steps are correctly numbered with the correct introduction
+
+### Edits
+* Use the present tense. Search for “wills” and, if possible, replace them
+* There should be no coloured or highlighted text remaining
+* Check for “?” and make sure that they are appropriate
+* Make sure that there are no review comments left on the document
+* Introduction should be appropriate and contain all necessary information from the document
+
+### Updates
+* Update fields, Cross-references, page numbering ToC(s) using Ctrl+A, F9. Do this twice.
+* Hyperlinks, check they are correct and that they work
+
+### Diagrams and Screenshots
+* Diagrams and screenshots must have numbered captions
+* Diagrams must be “Graphic style” followed by “Caption style”
+* Screenshots should contain sensible data
+
+### Miscellaneous
+* Check that tables have headings and are in the LSE style.
+* Check that the copyright year on back page is correct
+* Check the version number on the title page
+* Check that there are no red, blue or green squiggly underlines added by MSWord
+
+
+
