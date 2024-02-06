@@ -21,8 +21,8 @@ Based on the options selected in the Basic capture profiles pane, the options in
 4. In the **Profile Settings** pane, click the **Input** drop-down arrow. An *Input option menu* displays as shown below:
 
  ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputMenuOption.png)
- 
-5. Point to **Scrolling** and verify if the **Auto Scroll Window** option is selected. By default, the *Auto Scroll* Window option is selected.
+
+ 5. Point to **Scrolling** and verify if the **Auto Scroll Window** option is selected. By default, the *Auto Scroll* Window option is selected.
 6. To scroll the document both vertically and horizontally, on the **Input** menu options, click **Properties**. The *Input Properties* dialog box displays as shown below:
 
 ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputProperties.png)
@@ -51,3 +51,8 @@ Do not click to move to the document that you want to capture but instead use **
 
 ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItCaptureComplete.png)
 
+15. Click the **Save** icon. The **Save As** dialog box displays.
+16. Enter the name of the file and click **Save**. The captured window is saved successfully.
+
+>[!NOTE]
+To cancel the capturing process, press **ESC**.
