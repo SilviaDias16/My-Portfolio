@@ -34,5 +34,13 @@ Based on the options selected in the Basic capture profiles pane, the options in
 8. Click **Apply** and then click **OK**.
 9. In the **Profile Settings** pane, click the **Output** drop-down arrow. An *Output menu options* displays as shown.
 
- ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/Output Menu Option.png)
- 
+![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/OutputMenuOption.png)
+
+10. Select the appropriate output option. By default, **Preview in Editor** option is selected.
+11. Click the **Capture** button located at the bottom-right of the window.
+>[!TIP]
+> Instead of using the Capture button to capture the screenshot, you can also use **PRINT SCREEN**. In SnagIt, PRINT SCREEN is used as the default capture key.
+12. Move to the document that you want to capture by using the **ALT+TAB** keys.
+>[!NOTE]
+Do not click to move to the document that you want to capture but instead use **ALT+TAB**. A red border rectangle appears around the document as shown below:
+
