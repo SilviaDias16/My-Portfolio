@@ -1,8 +1,35 @@
 # Style Guide
 The rules set out in this Style Guide are designed to bring consistency to an organisation's technical documentation. These rules will help documents to have a common voice and will reduce the number of grammatical and typographical errors, as proper grammar and punctuation will help to maintain credibility.  
 The end of this guide contains a short pre-publication checklist that you should refer for a quick check before sending a document out for review or to customers.
-## Technical Writing Style and Tone of Voice
+## Technical Writing Style
 These guidelines will help you create high qulaity documents in terms of style and tone of voice.
+### Consider the Target Audience
+You should always think about your documents target reader and make sure that the content is appropriate for them.
+Some of the questions you should keep in mind are:
+* Who is going to read your document?
+* What is your reader's role?
+* What task is your reading trying to accomplish?
+* Is the information suitably presented to help the reader to understand the content?
+* Are other materials going to support the content of the document and should you refer to them?
+
+### Tone of Voice
+The tone of your document should be polite, professional and respectful.
+
+### Inclusive Language
+Use gender inclusive langauge (also known as gender-neutral language)
+
+### Use of Jargon
+
+
+### Titles, Headings and Sub-Headings
+The ‘title case’ should be used for all titles, headings, sub-headings and captions.  With the title case, the first letter of all nouns, adjectives, verbs and adverbs are capitalised; prepositions and articles are not capitalised unless they are used for the first word.  
+Examples:
+* Access the Client Reporting Solution
+* Log in to GitHub
+* Importing Images in Markdown
+
+
+### Use active verbs, 
 
 
 
