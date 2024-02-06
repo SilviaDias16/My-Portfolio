@@ -14,4 +14,9 @@ This restriction is overcome by SnagIt’s Scrolling Window feature, using which
 3. From the **Basic capture profiles** pane, click **Scrolling window (Web Page)**. The *Scrolling window* options display in the *Profile Settings* pane which is located at the bottom of the window as shown below:
 
 ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/ScrollingWindowOption.png)
-Note: Based on the options selected in the Basic capture profiles pane, the options in the Profile Setting pane, changes accordingly.
+
+>[!Note] 
+Based on the options selected in the Basic capture profiles pane, the options in the Profile Setting pane will change.
+>
+4. In the **Profile Settings** pane, click the **Input** drop-down arrow. An *Input option menu* displays as shown below:
+
