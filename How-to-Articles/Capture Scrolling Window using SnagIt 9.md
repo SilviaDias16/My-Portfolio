@@ -11,6 +11,8 @@ This restriction is overcome by SnagIt’s Scrolling Window feature, using which
 
  ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItWindow.png)
 
+ <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItWindow.png" width="800">
+
 3. From the **Basic capture profiles** pane, click **Scrolling window (Web Page)**. The *Scrolling window* options display in the *Profile Settings* pane which is located at the bottom of the window as shown below:
 
 ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/ScrollingWindowOption.png)
