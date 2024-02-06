@@ -44,3 +44,10 @@ Based on the options selected in the Basic capture profiles pane, the options in
 >[!NOTE]
 Do not click to move to the document that you want to capture but instead use **ALT+TAB**. A red border rectangle appears around the document as shown below:
 
+![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/RedBorder.png)
+
+13. Click in the document that you want to capture. SnagIt automatically starts capturing the document in both the directions, first vertically and then horizontally.
+14. After the capture is complete, the image is displayed in the SnagIt Editor as shown below
+
+![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/SnagItCaptureComplete.png)
+
