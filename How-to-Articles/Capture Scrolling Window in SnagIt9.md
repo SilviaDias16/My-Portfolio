@@ -29,3 +29,10 @@ Based on the options selected in the Basic capture profiles pane, the options in
 
 7. Under **Window Auto Scroll** options, select the **Scroll direction** as **Both**. When you select Both, the **Scroll from top of document** and **Scroll from left of document** check boxes are disabled as shown.
 
+ ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/InputProperties_ScrollDirection.png)
+
+8. Click **Apply** and then click **OK**.
+9. In the **Profile Settings** pane, click the **Output** drop-down arrow. An *Output menu options* displays as shown.
+
+ ![SnagItWindow](https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/Output Menu Option.png)
+ 
