@@ -4,7 +4,9 @@ I've created similar knowledge articles whilst working for the London Stock Exch
 These articles were created using Saleforce Knowledge and were hosted on cloud, so that it could be securely shared with customers and internal staff members.
 
 >[!NOTE]
-> *This is a generic delete article*
+>This is a generic delete article
+>
+
 
 <p align="center">
  <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/How-to-Articles.jpg" width="1000">
