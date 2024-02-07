@@ -47,6 +47,16 @@ Left-aligned text is generally considered the most readable and accessible optio
 ### Active and Passive Voice
 Readers find it easier to follow and understand information that is written in an active voice.  However, passive voice is better suited to certain types of documentation. The trick is in identifying the correct ‘voice’ to favour in particular types of documentation; the following table provides some guidance. 
 
+|Voice       |Description & Examples                         |Document Types|
+|------------|------------------------------------------------|--------------|
+|Active      |The subject of the sentence is doing the action.|User guide|
+|            |Examples:                                       | Training Manual|
+|            | The dog chases the ball|Online Help|Wiki|
+|Passive| The subject of the sentence is having the action done to them| Technical Specification|
+|         |Examples:|Business Requirements|
+|         |The ball was chased by the dog| Functional Specifications|
+
+
 
 ### Tone of Voice
 The tone of your document should be polite, professional and respectful.
