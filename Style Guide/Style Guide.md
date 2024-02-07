@@ -30,13 +30,14 @@ Below are some of the points that you need to keep in mind:
 * Avoid repeating the same information throughout the document. You can refer to the information already mentioned by using hyperlinks.
 * Keep your sentences short and simple
 * Use bullet points, tables, digrams, process flows to assist your reader's understanding of the information and to hold their attention.
+* Use numbered list for step-by-step procedures and workflows.
 
 >[!TIP]
-> Create a plan for a structure of your document and consider what needs to be covered in which section and which order.
+> * Create a plan for a structure of your document and consider what needs to be covered in which section and which order.
 >
-> Use bullet points where appropriate.
+> * Use bullet points where appropriate.
 >
-> Do not sacrifice reader's understanding in an attempt to keep the document short.
+> * Do not sacrifice reader's understanding in an attempt to keep the document short.
 >
 >
 
@@ -56,27 +57,13 @@ Readers find it easier to follow and understand information that is written in a
 |         |Examples:|Business Requirements|
 |         |The ball was chased by the dog| Functional Specifications|
 
-
-
-### Tone of Voice
-The tone of your document should be polite, professional and respectful.
-
 ### Inclusive Language
-Use gender inclusive langauge (also known as gender-neutral language)
+Do not use “he” or “she” unless you are referring to a specific man or woman. Never use s/he.
+Use “you” wherever possible or “they” or “their”. They/their can be used with singular subjects.
+Use gender-neutral terms such as people, staff or personnel.
+You can use a third person plural(they, them, their, themseleves), instead of a third person singular(he/she, his/hers, him/her, himself/herself)
 
-### Use of Jargon
-
-
-
-
-
-### Use active verbs, 
-
-
-
-
-
-## Acronyms and Initialisations
+### Acronyms and Initialisations
 Only use acronyms and initialisations if the term is used twice or more within the document or if the abbreviation is more common that the full name, like USA. Spell out the term, in full, the first time it is used and follow it with its abbreviation in brackets. From then on use the abbreviation.  
 If the first appearance is in a title or heading, spell the term in full. Add the abbreviation when it first appears within the body of the document.  
 Although acronyms or initialisations are usually in upper case, the full term is not necessarily written in title case.
@@ -84,13 +71,16 @@ You only need to spell out an acronym or initialisation if it is helpful to the 
 Most abbreviations are the same for singular and plural. To make them plural add an “s”, do not use an apostrophe.
 >[!NOTE]
 >An acronym is pronounced as a word, like ASCII or NATO. An initialisation is not, like CD or BBC.
+
 ### EG, IE and Etc
 Do not use e.g., i.e. and etc. Replace them with proper text such as: “for example“; “that is“; “such as“; “and so on“.
 Abbreviations like these are out of place in technical documentation and are frequently used incorrectly with i.e. and e.g. being confused.
 Etcetera is imprecise and lazy: give examples rather than assume the reader knows what you are thinking.
-## Ampersands
+
+### Ampersands
 Do not use “&” as a substitute for “and”, except where it is generally used, such as in a name, like Fortnum & Mason.
-## Bullets and Lists
+
+### Bullets and Lists
 Use lists to chunk related information to make it easier for the reader to scan. Choose the type of list according to the information it contains. Create either an:
 * ordered list (using numbers) to present information such as tasks or workflows in the sequence in which they must be read, understood or executed. Ordered lists should also be used if you are writing long sentences or paragraphs, or more than six bullets
 * unordered list (bulleted, like this one) to present non-sequential, related information such as a series of options or choices.  
@@ -110,48 +100,51 @@ Do not use single bullets.
 ## Capitalisation
 Use bold and not capitals to emphasise a word or phrase. Do this sparingly.
 Colons and hyphens are not followed by a capital letter.
+
 ### Departments and Teams
 Write department and team names in title case, for example: the Human Resources team.
+
 ### Government
 Use a capital letter when referring to a specific government, for example, “the Government announced it supported the decision”.
 Use a lowercase “g” in adjectival contexts, such as “a government consultation” or “a government decision”.
+
 ### Document Titles and Section Headings
 Titles of documents and reports should be written in italics and title case. For example, Company Name Style Guide.
 Section headings should be written in title case.
 The phrase that introduces steps in a procedure should be in sentence case (as well as being in bold and ending with a colon).
+
 ### Terms
 You should capitalise terms that have a special meaning in a solution, for example the Selections Basket.
-## Collective Nouns
-Nouns such as “team” and “committee” take a singular verb or pronoun when thought of as a single unit, but a plural verb or pronoun when thought of as a collection of individuals.
-For example, “the team visits the head office” but “the team asked questions to address their concerns”.
+
 ## Cross-references
 References in the text to other sections or to graphics should be cross references so that the text stays in contact with the graphic. Use the Cross-References button on the Insert menu.
 Update all fields within a document, cross-references are fields, by pressing Ctrl+A, F9. This also updates the Table of Contents.
-## Dates
+### Dates
 Write dates as “day month year” (2 May 2017). Do not use abbreviations such as “st”, “nd”, “rd” or “th”.
 Do not break a date across two lines. If space is limited, format it as 02/05/17.
-## Gender
-Do not use “he” or “she” unless you are referring to a specific man or woman. Never use s/he.
-Use “you” wherever possible or “they” or “their”. They/their can be used with singular subjects.
-Use gender-neutral terms such as people, staff or personnel.
-## Graphics
+
+### Graphics
 If possible, do not include text in graphics. It makes updating them difficult.
 Use numbers to label a picture and follow the graphic with a corresponding table.
 Use graphics sparingly and only if they add something to the text.
 Graphics should be centred and have a caption. They should also be numbered using the Insert Caption button on the References tab.
 Alternatively, use the Graphic Caption Macro button,  . This is located in the Quick Access Toolbar, at the top left-hand side of the MSWord screen.
 References to graphics in the text should be cross references so that the text stays in contact with the graphic.
-## Italics
+
+### Italics
 Use italics for notes and for the titles of publications. Foreign words and phrases are also italicised unless they have been incorporated into English.
 Use bold for emphasis.
-## Job Titles
+
+### Job Titles
 Job titles should be capitalised when referring to a particular individual, for example “Adam Jones, Technical Director, will manage the programme” and “the Team Leader is in charge”.
 When speaking about the role in general, however, the job title should be in lower case. For example, “the team will be led by a project manager”.
-## May/might (Permission and Probability)
+
+### May/might (Permission and Probability)
 Write “may” to express permission – do not use it in the conditional sense of “might”.
 Use “might” to indicate probability.
 “A user with the wrong permissions may delete data” is ambiguous because it means that the user is permitted to delete data. What is meant is that the user might delete it.
 Write “can” to indicate possibility and capability. For example, “quitting without saving can lose your work”.
+
 ## Numbers and Numbering
 This section tells you how to treat different kinds of numbers in the documentation.
 ### Numbers
@@ -182,6 +175,7 @@ Mobile numbers are also written as five digits, followed by six digits.
 For international numbers, always provide full country and local area codes when you include a telephone number. Preface the international code with a plus sign (+) and separate the other elements of the number with spaces and not hyphens. For example:
 * UK number: +44 7563 2000
 * US number: +1 650 598 4747
+
 ## Punctuation
 ### Exclamation Marks
 Do not use these to emphasise text. Only include an exclamation mark at the end of a warning.
@@ -251,11 +245,6 @@ Avoid underlining. An exception would be quoted material which includes underlin
 * Diagrams must be “Graphic style” followed by “Caption style”
 * Screenshots should contain sensible data
 
-### Miscellaneous
-* Check that tables have headings and are in the LSE style.
-* Check that the copyright year on back page is correct
-* Check the version number on the title page
-* Check that there are no red, blue or green squiggly underlines added by MSWord
 
 
 
