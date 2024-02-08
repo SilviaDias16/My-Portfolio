@@ -5,12 +5,15 @@ FreeCell is one of the most popular solitaire card games, which is included with
 Let us start by understanding the FreeCell Interface.
 
 This document covers:
+*
+  <a href="#understanding-the-interface">Understanding the Interface</a>
+
 
 * <a href="#understanding-the-interface">Understanding the Interface</a>
-* <a href="Understanding the Aim of the Game"> Understanding the Aim of the Game </a>
-* Understanding the Aim of the Game
-* Planning Strategy/Planning the Moves
-* Setting the Game Options
+* <a href="#understanding-the-aim-of-the-game">Understanding the Aim of the Game</a>
+* <a href="#planning-strategy/planning-the-moves">Planning Strategy/Planning the Moves</a>
+* <a href="#setting-the-game-options">Setting the Game Options</a>
+
 
 ## Understanding the Interface
 The interface is divided into three parts as shown in the below image:
