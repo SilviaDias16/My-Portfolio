@@ -8,7 +8,7 @@
 Below is a list of all enhancments that have been included in 2.3.0 release:
 
 ### JiraEnhan-001 - File History displays upload history of more days
-The File History folder has been enhanced to now display the uploaded history for 180 days. Previously, it was set to display history for just 90 days.
+The File History folder has been enhanced to now display the upload history for 180 days. Previously, it was set to display history for just 90 days.
 
 ### JiraEnhan-002 - True/False values displayed in Complete Reports and Current Report columns
 Folders will now display True/False values for Boolean field, which is consistent to the XML output.
