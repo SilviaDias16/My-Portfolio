@@ -5,7 +5,9 @@ FreeCell is one of the most popular solitaire card games, which is included with
 Let us start by understanding the FreeCell Interface.
 
 This document covers:
-* Understanding the Interface
+
+* <a href="#understanding-the-interface">Understanding the Interface</a>
+* <a href="Understanding the Aim of the Game"> Understanding the Aim of the Game </a>
 * Understanding the Aim of the Game
 * Planning Strategy/Planning the Moves
 * Setting the Game Options
