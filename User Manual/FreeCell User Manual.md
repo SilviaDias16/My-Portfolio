@@ -12,10 +12,15 @@ This document covers:
 
 ## Understanding the FreeCell Interface
 The interface is divided into three parts as shown in the below image:
-
+<p align="center">
+ <img src="https://github.com/SilviaDias16/My-Portfolio/blob/main/Images/FreeCellInterface.png" width="800">
+</p>
 
 * **Free Cells** - These are dispalyed at the upper-left corner
 * **Home Cells** - These are displayed at the upper-right corner
 * **Tableau** - Deck of regular 52 cards displayed in eight columns below the Free and Home cells
-* 
+
+## Understanding the Aim of the Game
+The aim of this game is very straightforward. All you need to do is move all the 52 cards to the Home Cells in such a way that each suite is arranged from highest to the lowest (i.e. starting with Ace and ending with King). Since there are four Home Cells, each suite will be placed in one of the Home Cell as shown in the below image:
+
 
