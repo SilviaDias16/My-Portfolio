@@ -6,9 +6,6 @@ Let us start by understanding the FreeCell Interface.
 
 This document covers:
 *
-  <a href="#understanding-the-interface">Understanding the Interface</a>
-
-
 * <a href="#understanding-the-interface">Understanding the Interface</a>
 * <a href="#understanding-the-aim-of-the-game">Understanding the Aim of the Game</a>
 * <a href="#planning-strategy/planning-the-moves">Planning Strategy/Planning the Moves</a>
