@@ -30,8 +30,11 @@ The xxx validation is now amended, which has fixed this issue.
 
 ### JiraDefect002 - Rates Static Lookup
 **Issue**
+
 The Rates static table is referred to in the creation of number of fields. Currently, it is linked via the date equalling the last day of the reporting period. However, the static table only has rates for weekdays. 
+
 **Resolution**
+
 The code has been changed, such that if the last day of a reporting period is a weekend, the last week of the reporting period is used.
 
 
