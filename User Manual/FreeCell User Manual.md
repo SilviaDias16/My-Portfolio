@@ -8,7 +8,7 @@ This document covers:
 *
 * <a href="#understanding-the-interface">Understanding the Interface</a>
 * <a href="#understanding-the-aim-of-the-game">Understanding the Aim of the Game</a>
-* <a href="#planning-strategy/planning-the-moves">Planning Strategy/Planning the Moves</a>
+* <a href="#planning-strategy">Planning Strategy/Planning the Moves</a>
 * <a href="#setting-the-game-options">Setting the Game Options</a>
 
 
