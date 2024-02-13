@@ -6,7 +6,7 @@
 
 ### Tools used: Confluence Wiki, Microsoft Visio, Microsoft Word, Miro and Gliffy
 
-This technical writing project involved creating an online searchable knowledge base for one of my client. I was working on a programme, where my client was in the process of replacing their trading platform with the in-house developed applications, which meant moving away from the existing traditional Software Development Life Cycle approach to new ways of working base on agile and lean practices.
+This technical writing project involved creating an online searchable knowledge base for one of my client. I was working on a programme, where my client was in the process of replacing their trading platform with the in-house developed applications, which meant moving away from the existing traditional Software Development Life Cycle approach to new ways of working based on agile and lean practices.
 
 My role was to update the existing knowledge base structure in Confluence to support the new ways of working. I analysed the existing KB, did a gap analysis of what was missing, analysed all the different locations where information was held and the type of content that was needed in the future.
 
