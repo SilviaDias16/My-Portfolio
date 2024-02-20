@@ -1,8 +1,8 @@
 # Release Notes
 >[!IMPORTANT]
-> I wrote these release notes few years ago for a software application that has been made redundant due to changes in regulation.
->
-> *For this portfolio sample, I have used only generic information and removed any specific details. The release and ticket numbers used are for reference purpose only and do not have any meaning in real scenario.*
+> I authored these release notes several years ago for a software application that has since become obsolete due to regulatory changes.
+
+> *In this portfolio sample, I've deliberately omitted any proprietary information and replaced specific details with generic placeholders. The release and ticket numbers mentioned are solely for illustrative purposes and hold no real-world significance.*
 
 ## Platform Release Changes - Enhancements
 Below is a list of all enhancments that have been included in 2.3.0 release:
