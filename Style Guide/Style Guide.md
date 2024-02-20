@@ -1,7 +1,8 @@
 # Technical Writing Style Guide
-The rules set out in this Style Guide are designed to bring consistency to an organisation's technical documentation. These rules will help documents to have a common voice and will reduce the number of grammatical and typographical errors, as proper grammar and punctuation will help to maintain credibility.  
-The end of this guide contains a short pre-publication checklist that you should refer for a quick check before sending a document out for review or to customers.
-These guidelines will help you create high qulaity documents in terms of style and tone of voice.
+The guidelines outlined in this Style Guide aim to establish uniformity across an organization's technical documentation. By adhering to these rules, documents can maintain a consistent tone and style, reducing grammatical and typographical errors to enhance credibility.  
+
+At the end of this guide, you'll find a concise pre-publication checklist. This checklist serves as a handy reference for quickly reviewing documents before submitting them for review or distribution to customers. Following these guidelines will assist you in crafting high-quality documents that maintain a consistent style and tone of voice.
+
 ## Consider the Target Audience
 You should always think about your documents target reader and make sure that the content is appropriate for them.
 Some of the questions you should keep in mind are:
