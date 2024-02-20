@@ -12,6 +12,8 @@ My role was to update the existing knowledge base structure in Confluence to sup
 
 Based on the analysis, I came up with a strategy on how we would start and implement this new structure. Interviewed a number of IT technical stakeholders, understood their needs and created a proposed KB structure layout. This structure layout was done using MS Visio, where different levels within the KB were represented using swim lanes (i.e. level the management would be interested in, level that the technical team would be interested in). 
 
+The current knowledge base (KB) is fully operational and actively utilized by team members. Leveraging this well-established KB structure as a template, the organization plans to develop two additional knowledge bases for their other services.
+
 I enjoyed this opportunity where I got to learn about the approach to Knowledge Management strategy and used my technical writing skills to create a structure that would help the user to find the right information without getting lost in a web of information.
 
 
