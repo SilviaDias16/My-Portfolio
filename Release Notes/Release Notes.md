@@ -22,7 +22,7 @@ The error message displayed on the error screen when the 'validate' button is cl
 **Issue**
 
 xx validation assumes that the mandatory fields within the funds are populated. However, when reporting for a fund that has no reporting requirement for a period, you need to only populate the header section.
-Currently, a FCA validation error is displayed when the mandatory fields of a fund with no reporting requirement are left blank.
+Currently, a xxx validation error is displayed when the mandatory fields of a fund with no reporting requirement are left blank.
 
 **Resolution**
 
